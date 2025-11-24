@@ -1,12 +1,19 @@
 # 🗄️ nikoto-archive
 
-This organization stores all my old projects, experiments, unfinished ideas and early code attempts.
+Welcome to **nikoto-archive** — a storage area for all my older code, experiments, drafts and early prototypes.
 
-These repositories are kept for:
-- reference and personal history,
-- revisiting certain ideas in the future,
-- tracking my progression as a developer,
-- avoiding clutter in my main GitHub workspace.
+## 📚 Purpose
+This organization exists to:
+- keep a trace of my developer evolution,
+- preserve early experiments or technical tests,
+- store prototypes I may want to revisit later,
+- prevent clutter in my main GitHub profile.
 
-Nothing here represents my current development standards or architectures.  
-All my professional, clean and production-oriented projects are located in **nikoto-apps**.
+## ⚠️ Note
+The repositories here:
+- are not maintained,
+- do not reflect my current coding standards,
+- are not part of active development.
+
+For all my professional projects built with **Spring Boot, Angular, Docker, PostgreSQL, CI/CD and clean architectures**,  
+please visit **[nikoto-apps](https://github.com/nikoto-apps)**.
